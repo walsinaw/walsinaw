@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/0z4FQx0K0dAAAAAC/gatito-negro-gato.gif" width="220">
+<img src="[https://media.tenor.com/0z4FQx0K0dAAAAAC/gatito-negro-gato.gif]" width="220">
 
 </div>
 
@@ -55,7 +55,6 @@
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c,figma,git,vscode&theme=dark"/>
 
 </div>
----
 
 <div align="center">
 
@@ -88,8 +87,6 @@
 ---
 
 <div align="center">
-
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/black-cat-pixel.gif" width="90"/>
 
 <br>
 
