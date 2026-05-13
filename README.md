@@ -41,7 +41,7 @@ UFPel
 
 <div align="center">
 
-<img src="https://media.tenor.com/9wFpDI4v0jQAAAAi/pokemon-oshawott.gif" width="220"/>
+<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/x-y/normal/oshawott.png" alt="Oshawott"></a>
 
 </div>
 
