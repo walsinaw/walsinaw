@@ -14,17 +14,13 @@
 
 <div align="center">
 
-<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/x-y/normal/oshawott.png" alt="Oshawott"></a>
-
 </div>
 
 ## 🌙 about me
 
 <div align="center">
 
-<a href="https://pokemondb.net/pokedex/oshawott">
-  <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="180">
-</a>
+<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/x-y/normal/oshawott.png" alt="Oshawott"></a>
 
 </div>
 
