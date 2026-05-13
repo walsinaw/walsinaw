@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
 ## 🌙 about me
 
@@ -37,7 +37,7 @@ UFPel
 
 </td>
 
-<td width="40%">
+<td width="30%">
 
 <div align="center">
 
