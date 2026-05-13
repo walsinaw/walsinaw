@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/jkzD8T4DqXcAAAAi/oshawott-pokemon.gif" width="140"/>
+<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" alt="Oshawott"></a>
 
 # hey, i'm ju ✨
 
@@ -16,11 +16,14 @@
 
 ## 🌙 about me
 
-🎓 studying **Analysis and Systems Development** at  
+🎓 studying **Analysis Systems and Development** at  
 UniSenac
+
 ⚙️ also studying **Control and Automation Engineering** at  
 UFPel
+
 🎨 doing freelance design projects on the side
+
 💻 passionate about technology since i was basically a child
 
 🌱 currently learning more about:
