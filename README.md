@@ -17,13 +17,10 @@
 ## 🌙 about me
 
 🎓 studying **Analysis and Systems Development** at  
-:contentReference[oaicite:0]{index=0}
-
+UniSenac
 ⚙️ also studying **Control and Automation Engineering** at  
-:contentReference[oaicite:1]{index=1}
-
+UFPel
 🎨 doing freelance design projects on the side
-
 💻 passionate about technology since i was basically a child
 
 🌱 currently learning more about:
