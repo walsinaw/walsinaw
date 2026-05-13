@@ -16,9 +16,11 @@
 
 <div align="center">
 
-<a href="https://pokemondb.net/pokedex/oshawott">
-  <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="180">
-</a>
+<div align="center">
+
+<img src="https://media.tenor.com/0z4FQx0K0dAAAAAC/gatito-negro-gato.gif" width="220">
+
+</div>
 
 </div>
 
@@ -47,28 +49,6 @@
 ## 🚀 tech stack
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c,figma,git,vscode&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 github stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=walsinaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walsinaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 contribution snake
-
-![snake gif](https://github.com/walsinaw/walsinaw/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
