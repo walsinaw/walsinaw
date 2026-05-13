@@ -1,6 +1,8 @@
 <div align="center">
 
-<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" alt="Oshawott"></a>
+<a href="https://pokemondb.net/pokedex/oshawott">
+  <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="140">
+</a>
 
 # hey, i'm ju ✨
 
@@ -10,23 +12,26 @@
 
 ---
 
-<table>
-<tr>
-<td width="70%">
-
 ## 🌙 about me
 
-🎓 studying **Analysis Systems and Development** at  
-UniSenac
+<div align="center">
 
-⚙️ also studying **Control and Automation Engineering** at  
-UFPel
+<a href="https://pokemondb.net/pokedex/oshawott">
+  <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="180">
+</a>
+
+</div>
+
+🎓 studying **Analysis and Systems Development** at UniSenac
+
+⚙️ also studying **Control and Automation Engineering** at UFPel
 
 🎨 doing freelance design projects on the side
 
 💻 passionate about technology since i was basically a child
 
 🌱 currently learning more about:
+
 - Java
 - C
 - JavaScript
@@ -34,20 +39,6 @@ UFPel
 - front-end development
 
 ☕ fueled by caffeine and questionable decisions
-
-</td>
-
-<td width="30%">
-
-<div align="center">
-
-<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/x-y/normal/oshawott.png" alt="Oshawott"></a>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
