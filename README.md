@@ -28,9 +28,7 @@
 
 </div>
 
-🎓 studying **Analysis and Systems Development** at UniSenac
-
-⚙️ also studying **Control and Automation Engineering** at UFPel
+🎓 studying **Analysis and Systems Development** at UniSenac ⚙️ also studying **Control and Automation Engineering** at UFPel
 
 🎨 doing freelance design projects on the side
 
