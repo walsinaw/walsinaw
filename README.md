@@ -12,15 +12,19 @@
 
 ---
 
-## 🌙 about me
-
-<div align="center">
-
 <div align="center">
 
 <img src="https://media.tenor.com/0z4FQx0K0dAAAAAC/gatito-negro-gato.gif" width="220">
 
 </div>
+
+## 🌙 about me
+
+<div align="center">
+
+<a href="https://pokemondb.net/pokedex/oshawott">
+  <img src="https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif" width="180">
+</a>
 
 </div>
 
@@ -51,7 +55,6 @@
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c,figma,git,vscode&theme=dark"/>
 
 </div>
-
 ---
 
 <div align="center">
