@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="[https://media.tenor.com/0z4FQx0K0dAAAAAC/gatito-negro-gato.gif]" width="220">
+<a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/x-y/normal/oshawott.png" alt="Oshawott"></a>
 
 </div>
 
@@ -28,11 +28,9 @@
 
 </div>
 
-🎓 studying **Analysis and Systems Development** at UniSenac ⚙️ also studying **Control and Automation Engineering** at UFPel
+🎓 studying **Analysis and Systems Development** at UniSenac || also studying **Control and Automation Engineering** at UFPel
 
-🎨 doing freelance design projects on the side
-
-💻 passionate about technology since i was basically a child
+🎨 doing freelance design projects on the side || passionate about technology since i was basically a child
 
 🌱 currently learning more about:
 
